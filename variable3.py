@@ -1,0 +1,6 @@
+name = (" my name is sohail")
+age =("my age is 19")
+price = ("my price is 34.9")
+print (name)
+print (age)
+print (price)
