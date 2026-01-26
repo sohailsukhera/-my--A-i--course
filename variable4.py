@@ -1,0 +1,7 @@
+# print ("hello world")
+# ("my name is sohail")
+# print (20+20)
+age = ("16")
+name = ("sohail")
+price = (36.5)
+print ("my name is:",age )
