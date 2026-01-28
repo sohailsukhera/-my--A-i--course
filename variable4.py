@@ -4,4 +4,6 @@
 age = ("16")
 name = ("sohail")
 price = (36.5)
-print ("my name is:",age )
+print ("my name is:",name )
+print("my age is :",age)
+print("my price is:",price)
