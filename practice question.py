@@ -40,6 +40,6 @@
 # questiom(10)
 '''experiment : what happen if you try too add a string and a integer in a print statment ?
 write a code snippet that fixes this using str ().'''
-name = ("sohail")
-age = str(23)
-print (name + age)
+# name = ("sohail")
+# age = str(23)
+# print (name + age)
