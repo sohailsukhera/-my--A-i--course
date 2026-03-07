@@ -92,22 +92,22 @@
 # print("Final Payable Bill:", totalbill)
 
 # print("Welcome to Shope Billing System")
-price = float(input("Enter product price: "))
-quantity = int(input("Enter quantity: "))
-total = price*quantity
-# discount rule
-if total > 10000: 
-    discount = total*0.20
-elif total < 2000:
-    discount = total*0.10
+# price = float(input("Enter product price: "))
+# quantity = int(input("Enter quantity: "))
+# total = price*quantity
+# # discount rule
+# if total > 10000: 
+#     discount = total*0.20
+# elif total < 2000:
+#     discount = total*0.10
 
-subtotal = total - discount
-# tax 12%
-tax = subtotal * 0.12
-final_bill = subtotal + tax
-print("\n-------BILL RECEIPT-------")
-print("Total amount:", total)
-print("Discount:", discount)
-print("Amount after discount:", subtotal)
-print("Tax:", tax)
-print("Final Payable Bill:", final_bill)
+# subtotal = total - discount
+# # tax 12%
+# tax = subtotal * 0.12
+# final_bill = subtotal + tax
+# print("\n-------BILL RECEIPT-------")
+# print("Total amount:", total)
+# print("Discount:", discount)
+# print("Amount after discount:", subtotal)
+# print("Tax:", tax)
+# print("Final Payable Bill:", final_bill)
