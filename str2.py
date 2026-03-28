@@ -1,1 +1,5 @@
-   ali is a good boyali is a bad boy
+a = ("ali is a good boy ")
+print(a)
+print(type(a))
+a = input("entr your name ")
+print("well come",a)
