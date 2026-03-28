@@ -89,7 +89,7 @@
 # print("discount:", discount)
 # print("amount after discount:", subtotal)
 # print("tax:", tax)
-# print("Final Payable Bill:", totalbill)
+# # print("Final Payable Bill:", totalbill)
 
 # print("Welcome to Shope Billing System")
 # price = float(input("Enter product price: "))
