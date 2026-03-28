@@ -1,3 +1,16 @@
 print ("well come to my python list practice question")
-custmer = ["ali", 23.4,30,True]
+custmer = ["ali","ali", 23.4,30,True]
+# print(custmer)
+# print(type(custmer))
+# custmer.append("ahmad")
+# print(custmer)
+# custmer.remove("ahmad")
+# print(custmer)
+# custmer.insert(1,"city")
+# print(custmer)
+# custmer.pop()
+# print(custmer)
+# custmer.clear()
+# print(custmer)
+custmer.pop(2)
 print(custmer)
